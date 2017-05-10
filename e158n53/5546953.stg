@@ -50,3 +50,4 @@ OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 158.42655 53.16792 26.57 
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 158.42635 53.16784 26.11 0
 OBJECT_SHARED Models/Trees/platanus_acerifolia_15m.xml 158.42614 53.16780 26.11 0
 # END dsf2stg
+OBJECT_SHARED Models/Airport/localizer.xml 158.436667 53.191667 33.02 23.38
